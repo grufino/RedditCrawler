@@ -13,4 +13,6 @@ Testes unitários dos principais métodos da Controller criada.
 
 Para utiliza-lo, basta completar a classe CallBot com credenciais de um bot telegram válido.
 
+OBS: O Telegram bot retorna no máximo 4096 caracteres, por limite do próprio Telegram.
+
 Autor: Gabriel Florêncio Rufino 

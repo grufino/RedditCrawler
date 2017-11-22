@@ -74,6 +74,7 @@ public class Controller {
 			output += list.get(i).getSubredditInfo();
 
 		}
+		list.clear();
 		return output;
 	}
 

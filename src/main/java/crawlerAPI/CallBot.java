@@ -7,7 +7,6 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
 
 
 public class CallBot {
-	Controller cont = new Controller();
 	public static void main(String[] args) {
 
         ApiContextInitializer.init();
